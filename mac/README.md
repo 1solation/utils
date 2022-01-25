@@ -38,5 +38,7 @@
 	 - Settings
 		 - Firefox Data Collection and Use, uncheck all
  - Install Node via NVM
+	 - `nvm install node` for the latest version
+	 - `nvm use node` to use the latest version
  - Install VS Code
 	 - Install extensions
