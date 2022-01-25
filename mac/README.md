@@ -1,5 +1,7 @@
 # mac dev set up
 
+Checkout the [set up script](setup-commands.sh) for the actual commands to run.
+
  - Install homebrew/terminal/bash
  - OSX Productivity:
 	 - Window Management/Replace Quick Launcher
