@@ -1,0 +1,42 @@
+# mac dev set up
+
+ - Install homebrew/terminal/bash
+ - OSX Productivity:
+	 - Window Management/Replace Quick Launcher
+ - OSX Settings:
+	 - Remove non-useful apps, minimise & hide Dock 
+	 - Update Finder settings 
+	 - `cmd + shift + h` for home dir then can drag & drop
+	 - Click on `Go` hold `option` and click library, drag & drop
+	 - `Finder>Preferences`
+		 - `General` check hard disks and external disks
+		 - `Advanced` keep folders on top, check both boxes
+		 - `Sidebar` uncheck tags
+	 - `Finder>View`
+		 - show status bar
+		 - show tab bar
+		 - show path bar
+	- `command + ,` `Advanced` 
+		- show filename extensions
+		- search in current folder
+ - Web Browser Firefox
+	 - Extensions:
+		 - speed dial 2 (import my own settings.json)
+		 - LastPass
+		 - Grammarly
+		 - FireFox Containers
+		 - ReadAloud
+		 - Video Speed Controller
+		 - AdBlocker
+	 - Settings `General`
+		 - `command +,`
+		 - Open previous windows & tabs
+		 - Make default browser
+		 - Always ask where to save files
+	- Settings `Search`
+		- Remove unwanted search shortcuts
+	 - Settings
+		 - Firefox Data Collection and Use, uncheck all
+ - Install Node via NVM
+ - Install VS Code
+	 - Install extensions
