@@ -11,8 +11,8 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 		 - `Hot Corners`, top right Notifications Centre, bottom right Desktop
 	 - Remove non-useful apps, minimise & hide Dock 
 	 - Update Finder settings 
-	 - `cmd + shift + h` for home dir then can drag & drop
-	 - Click on `Go` hold `option` and click library, drag & drop
+		 - `cmd + shift + h` for home dir then can drag & drop
+		 - Click on `Go` hold `option` and click library, drag & drop
 	 - `Finder>Preferences`
 		 - `General` check hard disks and external disks
 		 - `Advanced` keep folders on top, check both boxes
