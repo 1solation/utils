@@ -6,6 +6,9 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
  - OSX Productivity:
 	 - Window Management/Replace Quick Launcher
  - OSX Settings:
+	 - Enable "Hot Corners"
+		 - `System Preferences > Mission Control`
+		 - `Hot Corners`, top right Notifications Centre, bottom right Desktop
 	 - Remove non-useful apps, minimise & hide Dock 
 	 - Update Finder settings 
 	 - `cmd + shift + h` for home dir then can drag & drop
