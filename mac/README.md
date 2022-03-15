@@ -45,5 +45,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
  - Install Node via NVM
 	 - `nvm install node` for the latest version
 	 - `nvm use node` to use the latest version
+ - Add .alias file and .zshrc
+ 	 - this is inside the repo
  - Install VS Code
 	 - Install extensions
