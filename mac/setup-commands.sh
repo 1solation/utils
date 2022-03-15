@@ -13,7 +13,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 # if above error occurs if in zsh, cd ~, vi .zshrc and add in source lines from snippet in readme located at https://github.com/nvm-sh/nvm 
 nvm install stable
 mkdir ~/workspace
-npm install -g eslint
+npm install -g eslint liveserver
 brew install --cask visual-studio-code
 # update vscode settings & install extensions 
 # remove long shell prompt, in ~ dir
