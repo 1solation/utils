@@ -16,3 +16,5 @@ mkdir ~/workspace
 npm install -g eslint
 brew install --cask visual-studio-code
 # update vscode settings & install extensions 
+# remove long shell prompt, in ~ dir
+vi .zshrc # add the following: PROMPT="%n %1~ %# "
