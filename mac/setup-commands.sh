@@ -16,5 +16,5 @@ mkdir ~/workspace
 npm install -g eslint liveserver
 brew install --cask visual-studio-code
 # update vscode settings & install extensions 
-# remove long shell prompt, in ~ dir
-vi .zshrc # add the following: PROMPT="%n %1~ %# "
+# add vs code extensions to txt file and then run
+while read line; do code --install-extension "$line";done < extensions.txt
