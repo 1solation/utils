@@ -2,6 +2,7 @@
 
 ## kill-wsl.bat
 A windows batch script which kills all running instances of WSL which outputs some beautiful ASCII art to confirm. 
+
 Note;
 - You will need to restart services such as Docker etc.
 
