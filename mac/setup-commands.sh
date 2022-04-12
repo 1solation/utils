@@ -18,3 +18,5 @@ brew install --cask visual-studio-code
 # update vscode settings & install extensions 
 # add vs code extensions to txt file and then run
 while read line; do code --install-extension "$line";done < extensions.txt
+# install the best cli tool out there for when you get a command wrong
+brew install thefuck

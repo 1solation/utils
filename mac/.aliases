@@ -1,1 +1,5 @@
 alias ll="ls -al"
+alias gitst="git status"
+eval $(thefuck --alias)
+# thefuck alias for when things really go wrong:
+eval $(thefuck --alias ffs)
