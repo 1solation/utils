@@ -7,6 +7,12 @@ brew install git
 brew install --cask spectacle #window management tool similar to windows os
 brew install --cask alfred # remove spotlight keyboard shortcut and set CMD+space to launch alfred
 brew install --cask firefox
+# install GitHub CLI
+brew install gh
+# run the following to authenticate with GitHub account interactively
+gh auth login 
+# set default editor got gh
+gh config set editor vim
 # install nvm/node
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 # reload terminal, may get nvm is not a command error

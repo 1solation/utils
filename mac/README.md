@@ -1,3 +1,4 @@
+
 # mac dev set up
 
 Checkout the [set up script](setup-commands.sh) for the actual commands to run.
@@ -43,6 +44,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 		- Remove unwanted search shortcuts
 	 - Settings
 		 - Firefox Data Collection and Use, uncheck all
+ - Install GitHub CLI
  - Install Node via NVM
 	 - `nvm install node` for the latest version
 	 - `nvm use node` to use the latest version
