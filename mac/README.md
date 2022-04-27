@@ -2,7 +2,8 @@
 
 Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 
- - Install homebrew/terminal/bash
+ - Install homebrew/iterm/bash via setup script above
+ - Install Warp terminal too located at https://www.warp.dev/ 
  - OSX Productivity:
 	 - Window Management/Replace Quick Launcher
  - OSX Settings:
