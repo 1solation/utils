@@ -2,6 +2,7 @@
     "workbench.colorTheme": "Noctis Bordo",
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
+    "files.insertFinalNewline": true,
     "editor.formatOnSave": true,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
