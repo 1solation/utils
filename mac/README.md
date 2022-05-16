@@ -35,6 +35,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 		 - ReadAloud
 		 - Video Speed Controller
 		 - AdBlocker
+		 - Grepper
 	 - Settings `General`
 		 - `command +,`
 		 - Open previous windows & tabs
