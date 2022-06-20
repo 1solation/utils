@@ -3,4 +3,7 @@ alias gitst="git status"
 eval $(thefuck --alias)
 # thefuck alias for when things really go wrong:
 eval $(thefuck --alias ffs)
-alias python=/usr/bin/python3
+alias caf="caffeinate -d"
+# python3 aliases
+alias python="/usr/bin/python3"
+alias pip="pip3"
