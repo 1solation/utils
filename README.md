@@ -4,7 +4,7 @@ This is a Collection of utilities to help speed up/aid dev & setup tasks.
 
 ## List of Utils
 
-[WSL2](./wsl2)
+[WSL2](./WSL2)
 
 [Mac](./mac)
 
