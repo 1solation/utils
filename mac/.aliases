@@ -4,6 +4,6 @@ eval $(thefuck --alias)
 # thefuck alias for when things really go wrong:
 eval $(thefuck --alias ffs)
 alias caf="caffeinate -d"
-# python3 aliases
+# python3 aliases, breaks pyenv
 alias python="/usr/bin/python3"
 alias pip="pip3"
