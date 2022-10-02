@@ -1,13 +1,28 @@
 {
-    "workbench.colorTheme": "Noctis Bordo",
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 5000,
-    "files.insertFinalNewline": true,
-    "editor.formatOnSave": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 5000,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+  
+  },
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.preview": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.snippetSuggestions": "top",
+  "redhat.telemetry.enabled": true,
+  "python.formatting.provider": "black",
+  "workbench.colorTheme": "Noctis Bordo",
+  "editor.tokenColorCustomizations": {},
+  "editor.stickyScroll.enabled": true,
+  "editor.language.colorizedBracketPairs": [
+  
+  ]
 }
