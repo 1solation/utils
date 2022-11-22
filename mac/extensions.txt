@@ -19,3 +19,4 @@ PKief.material-icon-theme
 usernamehw.errorlens
 wix.glean
 zhuangtongfa.material-theme
+shalldie.background
