@@ -9,7 +9,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.codeActionsOnSave": {},
+  "editor.codeActionsOnSave": {
+  
+  },
   "editor.inlineSuggest.enabled": true,
   "editor.suggest.showMethods": true,
   "editor.suggest.preview": true,
@@ -26,7 +28,24 @@
     // "image": "https://wallpapers.com/images/hd/sekiro-shadows-die-twice-4-6xktdkb4movogxib-6xktdkb4movogxib.jpg", // url of your image
     "image": [
       "https://wallpapers.com/images/hd/sekiro-shadows-die-twice-4-6xktdkb4movogxib-6xktdkb4movogxib.jpg",
-      "https://i.redd.it/3dttftxq8po91.png"
+      "https://i.redd.it/3dttftxq8po91.png",
+      "https://wallpapercave.com/wp/wp6944042.jpg",
+      "https://rare-gallery.com/uploads/posts/356256-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/366331-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/342413-Omen-Valorant-Video-Game-Art.jpg",
+      "https://rare-gallery.com/uploads/posts/341702-One-Punch-Man-Anime-Genos.jpg",
+      "https://rare-gallery.com/uploads/posts/383880-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/344735-Miles-Morales-Spider-Man-Marvel-Comics-Superhero-Comics-Comic-Superheroes-Art.jpg",
+      "https://rare-gallery.com/uploads/posts/384179-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/368975-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/368040-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/365347-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/363763-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/381697-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/363758-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/340226-Digital-Art-City-Stars-Starry-Night-Comet-Scenery.jpg",
+      "https://rare-gallery.com/uploads/posts/385190-4k-wallpaper.jpg",
+      "https://rare-gallery.com/uploads/posts/390068-4k-wallpaper.jpg"
     ], // An array may be useful when set interval for carousel
     "opacity": 0.94, // 0.85 ~ 0.95 recommended
     "size": "cover", // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
