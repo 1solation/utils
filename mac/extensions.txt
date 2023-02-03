@@ -41,6 +41,7 @@ nachocab.highlight-dodgy-characters
 nicoespeon.abracadabra
 nicoespeon.hocus-pocus
 njpwerner.autodocstring
+Orta.vscode-jest
 PKief.material-icon-theme
 pmneo.tsimporter
 rbbit.typescript-hero
