@@ -43,6 +43,8 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 		 - Always ask where to save files
 	- Settings `Search`
 		- Remove unwanted search shortcuts
+		- Add/bookmark custom search shortcuts
+		   - Such as GitHub, StackOverflow, YouTube, etc
 	 - Settings
 		 - Firefox Data Collection and Use, uncheck all
  - Install GitHub CLI
