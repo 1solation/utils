@@ -20,6 +20,7 @@ GitHub.copilot
 GregorBiswanger.json2ts
 hashicorp.terraform
 hediet.vscode-drawio
+jock.svg
 liviuschera.noctis
 loiane.ts-extension-pack
 marciorasf.theme-darkula
@@ -58,5 +59,6 @@ VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
 VisualStudioExptTeam.vscodeintellicode-completions
 Vue.volar
+wayou.vscode-todo-highlight
 wix.glean
 ZainChen.json
