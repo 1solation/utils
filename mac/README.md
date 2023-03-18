@@ -29,7 +29,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
  - Web Browser Firefox
 	 - Extensions:
 		 - speed dial 2 (import my own settings.json)
-		 - LastPass
+		 - Bitwarden
 		 - Grammarly
 		 - FireFox Containers
 		 - ReadAloud
@@ -44,9 +44,10 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 	- Settings `Search`
 		- Remove unwanted search shortcuts
 		- Add/bookmark custom search shortcuts
-		   - Such as GitHub, StackOverflow, YouTube, etc
+		   - Such as gh (GitHub), so (StackOverflow), yt (YouTube), etc
 	 - Settings
 		 - Firefox Data Collection and Use, uncheck all
+ - Install Bitwarden Desktop App
  - Install GitHub CLI
  - Install Node via NVM
 	 - `nvm install node` for the latest version
