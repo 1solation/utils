@@ -25,4 +25,5 @@ brew install --cask visual-studio-code
 # add vs code extensions to txt file and then run
 while read line; do code --install-extension "$line";done < extensions.txt
 # install the best cli tool out there for when you get a command wrong
+# if you have warp terminal, you don't need this tool
 brew install thefuck
