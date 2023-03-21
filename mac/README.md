@@ -15,7 +15,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run.
 	 - Update Finder settings 
 		 - `cmd + shift + h` for home dir then can drag & drop (or File > Add to sidebar)
 		 - Click on `Go` hold `option` and click library, drag & drop
-	 - `Finder>Preferences`
+	 - `Finder>Settings`
 		 - `General` check hard disks and external disks
 		 - `Advanced` keep folders on top, check both boxes
 		 - `Sidebar` uncheck tags
