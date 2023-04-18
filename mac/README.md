@@ -1,7 +1,21 @@
-
 # mac dev set up
 
-Checkout the [set up script](setup-commands.sh) for the actual commands to run.
+## Contents
+
+- [warp](/warp): Things related to the Warp terminal
+    - [themes](/warp/themes): Collection of custom themes for the Warp terminal
+        - [retrowave.jpg](/warp/themesretrowave.jpg): Background image for custom theme
+        - [retrowave.yaml](/warp/themesretrowave.yaml): Custom theme yaml
+- [.aliases](.aliases): List of useful aliases for commands
+- [.zshrc](.zshrc): Used to configure the zsh shell
+- [extensions.txt](extensions.txt): List of VS Code extensions used
+- [kotlin-setup.md](kotlin-setup.md): README on setting up the Kotlin Programming langauge and tooling surrounding it
+- [setup-commands.sh](setup-commands.sh): List of commands to run when setting up for the first time
+- [vscode-settings.json](vscode-settings.json): 
+
+## Usage
+
+Checkout the [set up script](setup-commands.sh) for the actual commands to run, or download the whole file and run `sh setup-commands.sh`.
 
  - Install homebrew/iterm/bash via setup script above
  - Install Warp terminal too located at https://www.warp.dev/ 
