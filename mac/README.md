@@ -11,7 +11,7 @@
 - [extensions.txt](extensions.txt): List of VS Code extensions used
 - [kotlin-setup.md](kotlin-setup.md): README on setting up the Kotlin Programming langauge and tooling surrounding it
 - [setup-commands.sh](setup-commands.sh): List of commands to run when setting up for the first time
-- [vscode-settings.json](vscode-settings.json): 
+- [vscode-settings.json](vscode-settings.json): Collection of settings used for VS Code
 
 ## Usage
 
