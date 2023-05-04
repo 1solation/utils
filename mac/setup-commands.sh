@@ -29,3 +29,9 @@ while read line; do code --install-extension "$line";done < extensions.txt
 brew install thefuck
 # download & install asdf version manager
 brew install asdf &&  echo "plugins=(asdf)" >> ~/.zshrc && source ~/.zshrc
+# for kubernetes
+brew install kubernetes-cli
+brew install kubectx
+brew install helm
+# for kafka
+brew install kcat
