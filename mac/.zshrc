@@ -7,4 +7,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source $HOME/.aliases
 # set default editor to Vim
 export EDITOR=vim
+# set zsh asdf path
+. /usr/local/opt/asdf/libexec/asdf.sh
+# add plugins
 plugins=(asdf brew)
