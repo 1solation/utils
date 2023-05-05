@@ -1,5 +1,6 @@
 alias ll="ls -al"
 alias gitst="git status"
+# don't need thefuck if you have warp
 eval $(thefuck --alias)
 # thefuck alias for when things really go wrong:
 eval $(thefuck --alias ffs)
