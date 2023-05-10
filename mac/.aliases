@@ -1,10 +1,8 @@
 alias ll="ls -al"
 alias gitst="git status"
-# don't need thefuck if you have warp
-eval $(thefuck --alias)
-# thefuck alias for when things really go wrong:
-eval $(thefuck --alias ffs)
 alias caf="caffeinate -d"
 # python3 aliases, breaks pyenv
 alias python="/usr/bin/python3"
 alias pip="pip3"
+# intellij alias to open it from cli
+alias intellij="open -na \"IntelliJ IDEA.app\""
