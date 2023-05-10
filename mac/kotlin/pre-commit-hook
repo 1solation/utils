@@ -1,1 +1,21 @@
-d
+#!/bin/bash
+
+echo "Running git pre-commit hook"
+
+./gradlew ktlintformat
+
+KTLINT_RESULT=$?
+
+# add the now linted files
+git add -A .
+
+# return 1 exit code if running checks fails
+[ $KTLINT_RESULT -ne 0 ] && exit 1
+
+./gradlew clean test
+
+TEST_RESULT=$?
+
+# return 1 exit code if running tests fails
+[ $TEST_RESULT -ne 0 ] && exit 1
+exit 0
