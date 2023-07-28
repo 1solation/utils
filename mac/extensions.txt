@@ -48,7 +48,6 @@ pmneo.tsimporter
 rbbit.typescript-hero
 redhat.vscode-yaml
 ritwickdey.LiveServer
-shalldie.background
 streetsidesoftware.code-spell-checker
 stringham.move-ts
 tht13.html-preview-vscode
