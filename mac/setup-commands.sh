@@ -7,6 +7,8 @@ brew install git
 brew install --cask spectacle #window management tool similar to windows os
 brew install --cask alfred # remove spotlight keyboard shortcut and set CMD+space to launch alfred
 brew install --cask firefox
+# bpytop for monitoring system level metrics on device
+brew install bpytop
 # install GitHub CLI
 brew install gh
 # run the following to authenticate with GitHub account interactively
