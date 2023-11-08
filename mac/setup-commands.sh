@@ -1,5 +1,8 @@
 xcode-select --install
+# for intel macs
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# for m1/arm macs
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew update
 brew install --cask iterm2 # update iterm2 settings -> colors, keep directory open new shell, keyboard shortcuts
 brew install bash # latest version of bash
