@@ -32,8 +32,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run, 
 	 - `Finder>Settings`
 		 - `General` check hard disks and external disks
 		 - `Advanced` keep folders on top, check both boxes
-     			- show filename extensions
-		 	- search in current folder
+			- search in current folder, show filename extensions
 		 - `Sidebar` uncheck tags
 	 - `Finder>View`
 		 - show status bar
