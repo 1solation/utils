@@ -32,14 +32,14 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run, 
 	 - `Finder>Settings`
 		 - `General` check hard disks and external disks
 		 - `Advanced` keep folders on top, check both boxes
+     			- show filename extensions
+		 	- search in current folder
 		 - `Sidebar` uncheck tags
 	 - `Finder>View`
 		 - show status bar
 		 - show tab bar
 		 - show path bar
-	- `command + ,` `Advanced` 
-		- show filename extensions
-		- search in current folder
+	- `Cmd + Shift + .` to show hidden files/folders
  - Web Browser Firefox
 	 - Extensions:
 		 - speed dial 2 (import my own settings.json)
