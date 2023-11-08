@@ -57,7 +57,7 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run, 
 	- Settings `Search`
 		- Remove unwanted search shortcuts
 		- Add/bookmark custom search shortcuts
-		   - Such as gh (GitHub), so (StackOverflow), yt (YouTube), etc
+		   - Such as gh (GitHub), so (StackOverflow), yt (YouTube), jira, stash/bitbucket, etc
 	 - Settings
 		 - Firefox Data Collection and Use, uncheck all
  - Install Bitwarden Desktop App
