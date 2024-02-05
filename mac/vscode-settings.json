@@ -1,7 +1,9 @@
 {
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 5000,
-  "files.insertFinalNewline": true,
+  "files.insertFinalNewline": false,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -9,9 +11,7 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.codeActionsOnSave": {
-  
-  },
+  "editor.codeActionsOnSave": {},
   "editor.inlineSuggest.enabled": true,
   "editor.suggest.showMethods": true,
   "editor.suggest.preview": true,
@@ -19,9 +19,17 @@
   "editor.snippetSuggestions": "top",
   "redhat.telemetry.enabled": true,
   "python.formatting.provider": "black",
-  "workbench.colorTheme": "Noctis Bordo",
+  "workbench.colorTheme": "Monokai",
   "editor.tokenColorCustomizations": {},
   "editor.stickyScroll.enabled": true,
   "editor.language.colorizedBracketPairs": [],
   "html.format.unformatted": "",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "security.promptForLocalFileProtocolHandling": false,
+  "diffEditor.ignoreTrimWhitespace": false
 }
