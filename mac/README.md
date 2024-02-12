@@ -70,3 +70,4 @@ Checkout the [set up script](setup-commands.sh) for the actual commands to run, 
  - Install VS Code
 	 - Install extensions
 - Install [Logi Options +](https://www.logitech.com/en-gb/software/logi-options-plus.html)
+- Install [insta360](https://www.insta360.com/download/insta360-link)
