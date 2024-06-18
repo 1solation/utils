@@ -30,6 +30,7 @@ liviuschera.noctis
 loiane.ts-extension-pack
 marciorasf.theme-darkula
 mathiasfrohlich.kotlin
+mattpocock.ts-error-translator
 ms-azuretools.vscode-azurefunctions
 ms-azuretools.vscode-azurelogicapps
 ms-azuretools.vscode-azureresourcegroups
