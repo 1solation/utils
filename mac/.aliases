@@ -1,8 +1,11 @@
 alias ll="ls -al"
-alias gitst="git status"
 alias caf="caffeinate -d"
 # python3 aliases, breaks pyenv
 alias python="/usr/bin/python3"
 alias pip="pip3"
-# intellij alias to open it from cli
-alias intellij="open -na \"IntelliJ IDEA.app\""
+# git aliases
+alias gs="git status"
+alias ga="git add ."
+gcm() {
+  git commit -m "$1"
+}
