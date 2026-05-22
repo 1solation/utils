@@ -11,7 +11,7 @@ touch .git/hooks/pre-commit
 chmod +x .git/hooks/pre-commit
 ```
 
-The following [Python script](./package-quarantine-git-hook.py), currently works for Python, C# and JS projects. It analyses the staged git diffs for `package.json`, `requirements.txt`, and `.csproj` files, extracts newly added packages, and queries their respective registry APIs to check their publish dates.
+Paste the fhe following [Python script](./package-quarantine-git-hook.py) into that file, it currently works for Python, C# and JS projects. It analyses the staged git diffs for `package.json`, `requirements.txt`, and `.csproj` files, extracts newly added packages, and queries their respective registry APIs to check their publish dates.
 
 Important Nuances to Keep in Mind
 
